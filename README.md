@@ -195,4 +195,4 @@ I've already set this up as you can see in this screenshot:
 
 After hooking PostRender, our custom text is drawn on screen every frame!
 
-![Results](https://i.ibb.co/35NBctLg/results.png)
+![Results](https://i.ibb.co/wZWM4Dx5/results.png)
