@@ -18,8 +18,6 @@ You can use any of these strings to find `UGameViewportClient::PostRender`:
 
 For this example, I'll use **"LoadingMessage"**.
 
-![Search Result](https://i.ibb.co/0pyRk1Tb/2.png)
-
 After searching, we can see the function that uses this string:
 
 ![Function Found](https://i.ibb.co/VYNDf5KF/3.png)
